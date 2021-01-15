@@ -1,0 +1,12 @@
+[submodule "png2019-data"]
+	path = png2019-data
+	url = git@github.com:LAAC-LSCP/png2019-data.git
+[submodule "solomon-data"]
+	path = solomon-data
+	url = git@github.com:LAAC-LSCP/solomon-data.git
+[submodule "namibia-data"]
+	path = namibia-data
+	url = git@github.com:LAAC-LSCP/namibia-data.git
+[submodule "tsimane2017-data"]
+	path = tsimane2017-data
+	url = git@github.com:LAAC-LSCP/tsimane2017-data.git
