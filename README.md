@@ -24,5 +24,18 @@ Make sure to replace <oberon_alias> with whatever alias you use to ssh into Ober
 
 ### Hurray
 
-You're good to go. You can download data e.g. by doing `datalad get solomon-data/annotations`.
+You're good to go. You can now download as much data as you want. Examples:
+
+ - Download all annotations:
+ 
+```bash
+ datalad get */annotations
+```
+ 
+  - Download standardized recordings from tsimane2017:
+  
+```bash
+ datalad get tsimane2017-data/recordings/converted/standard
+```
+
 
